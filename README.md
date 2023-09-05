@@ -7,6 +7,7 @@ Primeiro, rode o servidor de desenvolvimento:
 
 ```bash
 cd frontend-next.js
+npm install
 npm run dev
 ```
 
